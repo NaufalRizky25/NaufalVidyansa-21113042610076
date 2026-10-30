@@ -1,0 +1,8 @@
+print("-"*20)
+print(5 + 3)
+print("-"*20)
+print(10 - 2)
+print("-"*20)
+print(4 * 2)
+print("-"*20)
+print(16 / 2)

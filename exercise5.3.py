@@ -1,11 +1,14 @@
 warna = ("merah", "kuning", "hijau")
 warnaAlien = "hijau"
-if warnaAlien in warna:
-    if warnaAlien == "hijau":
-        print("Selamat kamu mendapatkan 5 poin")
-    else:
-        print("Selamat kamu mendaprkan 10 poin")
 
-print(warnaAlien == "merah")
+if warnaAlien == "hijau":
+    print("Selamat kamu mendapatkan 5 poin")
+else:
+    None
 
-print(warnaAlien == "hijau")
+
+warnaAlien = "merah"
+if warnaAlien == "hijau":
+    print("Selamat kamu mendapatkan 5 poin")
+else:
+    None

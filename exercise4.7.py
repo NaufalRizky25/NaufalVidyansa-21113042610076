@@ -1,2 +1,2 @@
-angka = [angka * 3 for angka in range(3, 30)]
+angka = list(range(3, 31, 3))
 print(angka)

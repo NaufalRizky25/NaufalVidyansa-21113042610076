@@ -1,0 +1,6 @@
+In Python you can store information in variables and lists.
+In Python you can make decisions using if statements.
+In Python you can repeat tasks using for and while loops.
+In Python you can create reusable code using functions.
+In Python you can create classes and objects.
+In Python you can import modules to use additional features.
